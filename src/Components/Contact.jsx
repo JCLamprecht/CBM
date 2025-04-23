@@ -2,7 +2,6 @@ import GoogleMaps from "./GoogleMaps";
 import { LuMapPin } from "react-icons/lu";
 import { FiPhone } from "react-icons/fi";
 import { MdOutlineEmail } from "react-icons/md";
-import { useEffect } from "react";
 
 const Contact = () => {
   return (
