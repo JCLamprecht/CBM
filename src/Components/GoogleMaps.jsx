@@ -9,7 +9,6 @@ const GoogleMaps = () => {
 
   useEffect(() => {
     getKey();
-    // fetchLocationData();
   }, []);
 
   const getKey = async () => {
