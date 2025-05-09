@@ -92,8 +92,8 @@ hr {
 }
 
 .info {
-  font-size: 30px;
-  margin: 88px 130px;
+  font-size: 29px;
+  margin: 88px 90px;
   display: flex;
   flex-direction: column;
   line-height: 38px;
@@ -430,7 +430,7 @@ hr {
 
   .info {
     font-size: 22px;
-    margin: 55px 130px;
+    margin: 55px 20px;
   }
 
   .map {
@@ -670,28 +670,6 @@ hr {
       }
     }
   }
-
-  // .contact {
-  //   &-container {
-  //     &-address {
-  //       &-pgroup {
-  //         font-size: 12px;
-  //       }
-  //     }
-  //   }
-
-  //   &-info {
-  //     width: 170px;
-
-  //     & > h1 {
-  //       margin-top: 40px;
-  //     }
-
-  //     & p {
-  //       font-size: 12px;
-  //     }
-  //   }
-  // }
 
   .info {
     font-size: 15px;
